@@ -1,0 +1,4 @@
+philips 2 10
+lg 10 20
+lg 15 45
+atlant 2 4
