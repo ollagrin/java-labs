@@ -1,0 +1,6 @@
+Alenka 34 13.9
+Polesse 35.0 13.8
+Alenka 36.0 13.8
+Alenka 35.0 14.0
+Romashka 35.0 14.1
+СhupaChups 33.4 16.0 green
