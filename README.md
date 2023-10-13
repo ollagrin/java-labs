@@ -1,2 +1,2 @@
 # java-labs
-Repository consists of university labs (Java SE + Java Swing)
+Repository consists of university labs
