@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<grades>
+    <grade id="6">
+        <studentId>5</studentId>
+        <examId>1</examId>
+        <mark>9</mark>
+    </grade>
+    <grade id="8">
+        <studentId>6</studentId>
+        <examId>1</examId>
+        <mark>4</mark>
+    </grade>
+    <grade id="9">
+        <studentId>6</studentId>
+        <examId>2</examId>
+        <mark>8</mark>
+    </grade>
+</grades>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<exams>
+    <exam id="1">
+        <examName>fan</examName>
+    </exam>
+    <exam id="2">
+        <examName>proga</examName>
+    </exam>
+    <exam id="3">
+        <examName>ma</examName>
+    </exam>
+    <exam id="4">
+        <examName>ga</examName>
+    </exam>
+</exams>

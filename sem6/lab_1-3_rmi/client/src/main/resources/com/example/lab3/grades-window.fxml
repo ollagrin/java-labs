@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="337.0" prefWidth="492.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab3.controllers.GradeWindowController">
+   <children>
+      <TableView fx:id="gradeTable" layoutX="52.0" layoutY="24.0" prefHeight="245.0" prefWidth="388.0">
+        <columns>
+          <TableColumn fx:id="colName" prefWidth="87.0" text="name" />
+            <TableColumn fx:id="colSurname" prefWidth="75.0" text="surname" />
+            <TableColumn fx:id="colGroup" prefWidth="75.0" text="group" />
+            <TableColumn fx:id="colExam" prefWidth="75.0" text="exam" />
+            <TableColumn fx:id="colGrade" prefWidth="75.0" text="grade" />
+        </columns>
+      </TableView>
+      <Button fx:id="addButton" layoutX="208.0" layoutY="290.0" mnemonicParsing="false" text="add grades" />
+   </children>
+</AnchorPane>

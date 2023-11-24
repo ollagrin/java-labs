@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="248.0" prefWidth="352.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lab3.controllers.AddGradeController">
+   <children>
+      <Button fx:id="addButton" layoutX="141.0" layoutY="209.0" mnemonicParsing="false" text="add grade" />
+      <ComboBox fx:id="studentBox" layoutX="101.0" layoutY="45.0" prefWidth="150.0" promptText="select student" />
+      <ComboBox fx:id="examBox" layoutX="101.0" layoutY="81.0" prefWidth="150.0" promptText="select exam name" />
+      <Label layoutX="59.0" layoutY="127.0" text="mark" />
+      <TextField fx:id="markField" layoutX="102.0" layoutY="123.0" promptText="enter mark" />
+   </children>
+</AnchorPane>

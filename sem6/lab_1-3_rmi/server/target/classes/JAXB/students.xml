@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student id="2">
+        <name>Ivan</name>
+        <surname>Moroz</surname>
+        <groupNumber>5</groupNumber>
+    </student>
+    <student id="3">
+        <name>Polina</name>
+        <surname>Kasper</surname>
+        <groupNumber>2</groupNumber>
+    </student>
+    <student id="4">
+        <name>Vita</name>
+        <surname>Kostinech</surname>
+        <groupNumber>7</groupNumber>
+    </student>
+    <student id="1">
+        <name>Maksim</name>
+        <surname>Litchkevich</surname>
+        <groupNumber>3</groupNumber>
+    </student>
+    <student id="8">
+        <name>Mema</name>
+        <surname>Kupila</surname>
+        <groupNumber>4</groupNumber>
+    </student>
+    <student id="5">
+        <name>Ilya</name>
+        <surname>Prokop</surname>
+        <groupNumber>1</groupNumber>
+    </student>
+    <student id="6">
+        <name>Ilya</name>
+        <surname>Shpak</surname>
+        <groupNumber>8</groupNumber>
+    </student>
+    <student id="7">
+        <name>A</name>
+        <surname>B</surname>
+        <groupNumber>4</groupNumber>
+    </student>
+</students>
